@@ -6,6 +6,8 @@
   * https://drive.google.com/open?id=17zt42eKnEBDXZJia-FkDlu8nUYCfXvf2xfMFUBikTzA
 * Introduction to Computing
   * https://drive.google.com/open?id=1kNJNqf5OX6F9jeA6gGi9M256iWRNp9pCK9qF22zzMrk
+* Introduction to Logics
+  * https://drive.google.com/open?id=18PHaixPWEhXvqwXFiZSv0rJPClIU3C_ZoffJkv4fLW0
 * Course Project Overview
 * Environment Setup
 * Github
