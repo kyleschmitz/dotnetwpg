@@ -1,0 +1,23 @@
+Algorithm CanUserVote
+	var Boolean: isUserAnAdult
+
+	isUserAnAdult <- IsUserOver18()
+
+	if (isUserAnAdult) then
+		print("User is able to vote")
+	else
+		print("User is not able to vote")
+	end if
+End Algorithm
+
+
+Algorithm IsUserOver18() : Boolean
+	var Number: age
+	read(age)
+
+	if (age >= 18)
+		return true
+	else
+		return false
+	end if
+End Algorithm

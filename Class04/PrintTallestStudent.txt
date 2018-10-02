@@ -1,0 +1,23 @@
+Algorithm PrintTallestStudentHeight
+	var Number: tallestStudentHeight
+	tallestStudentHeight <-  GetTallestStudent()
+
+	Print("Tallest student height is " + tallestStudentHeight)
+End Algorithm
+
+
+
+Algorithm GetTallestStudent : Number
+	var Number : studentAHeight, studentBHeight, tallestHeight
+	read (studentAHeight)
+	read (studentBHeight)
+	
+	if (studentAHeight > studentBHeight)
+		tallestHeight = studentAHeight
+	else if (studentBHeight > studentAHeight)
+		tallestHeight = studentBHeight
+	else
+		return 0
+
+	return tallestHeight
+End Algorithm

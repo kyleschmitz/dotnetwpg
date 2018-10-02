@@ -11,7 +11,8 @@ Next class will be further learning about **Programming**
 
 ## Psuedocode Examples
 
-* (Will be posted after class)
+* [Print tallest student](PrintTallestStudent.txt)
+* [Can user vote](CanUserVote.txt)
 
 ## Course Project
 
