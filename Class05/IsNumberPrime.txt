@@ -1,0 +1,49 @@
+Algorithm Example1
+
+	var Number: numberToCheck
+	var Boolean: isNumberPrime
+
+	numberToCheck <- PromptForNumber()
+
+	while(numberToCheck != -1) do
+		isNumberPrime <- IsNumberPrime(numberToCheck)
+
+		if (isNumberPrime)
+			Print(numberToCheck + " is prime!")
+		else
+			Print(numberToCheck + " is not prime!")
+		end if
+
+		numberToCheck <- PromptForNumber()
+	end while
+
+End Algorithm
+
+Algorithm PromptForNumber() : Number
+	var Number: numberToCheck
+
+	Print("Enter a number to check! (-1 to quit): ")
+	read(numberToCheck)
+
+	return numberToCheck
+End Algorithm
+
+
+Algorithm IsNumberPrime(Number: num) : Boolean
+	var Number : counter <- 2
+	var Boolean : isNumberPrime <- true
+	var Number : remainder
+
+	while (counter < num AND isNumberPrime)
+		remainder <- num % counter
+
+		if (remainder == 0) then
+			isNumberPrime <- false
+		end if 
+
+		counter <- counter + 1
+	end while
+
+	return isNumberPrime
+
+End Algorithm

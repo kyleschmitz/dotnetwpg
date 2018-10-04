@@ -11,7 +11,7 @@ Next class will be learning about programming in .NET
 
 ## In-Class Examples
 
-(Not posted yet)
+* [Is number prime](IsNumberPrime.txt)
 
 ## Homework
 
