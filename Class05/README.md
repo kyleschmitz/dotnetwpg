@@ -4,8 +4,6 @@
 
 * Continuing learning about algorithms
   * https://drive.google.com/open?id=1Se6j7r4XLcIROTXpruaEpk35ellQpExoX8oHARnlOfo
-* Learn about modern programming languages
-  * https://drive.google.com/open?id=1wBgLsm2BzapaUqOO_mYe0dZwEhPctyiGr_nJhUM8qbg
 
 Next class will be learning about programming in .NET
 
