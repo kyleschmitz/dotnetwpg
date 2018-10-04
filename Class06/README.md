@@ -6,6 +6,7 @@
   * https://drive.google.com/open?id=1wBgLsm2BzapaUqOO_mYe0dZwEhPctyiGr_nJhUM8qbg
 * Learn about programming using C#
   * https://drive.google.com/open?id=1sj9meHvyMXt0zusGyIj5-2Sy0pnFP5zZwtH0bPo2FR8
+  * https://drive.google.com/open?id=1uTo8UeKBksRPy5RDAXrogDZqOhWb0dHOu2qvdc3xf_I
 
 Next class will be learning about programming in .NET
 
