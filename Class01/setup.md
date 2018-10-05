@@ -11,8 +11,7 @@ As part of the course, you will need to download, install, and configure the nec
 
 Visual Studio is a powerful IDE which we will use for our coding projects. It is also an industry stantard when programming in .NET. You can download the free community version here:
 
-https://visualstudio.microsoft.com/free-developer-offers/
-
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15#
 
 ## Microsoft SQL Server Express
 
