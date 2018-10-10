@@ -23,4 +23,4 @@ The application will then print the following information:
 
 ## Solution
 
-[Solution in Java](ShoppingCart.java)
+(To be posted next class)
