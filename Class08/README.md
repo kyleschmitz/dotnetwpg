@@ -6,8 +6,9 @@
   * https://drive.google.com/open?id=1spPp3MbgSDrVxbsYJ1BaFgoVA0aQ91cxJzlC1f6Ak1Q
 * Introduction to arrays:
   * https://drive.google.com/open?id=1NTchJS7TClpx16kzNrveWlmXHhmVYGpl5PDq1we_xyc
-* Examples from class:
-  * (Not yet posted)
+
+## Examples from class:
+ * (Not yet posted)
 
 Next class will be further learning about **C# Programming**
 
