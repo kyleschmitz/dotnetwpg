@@ -12,5 +12,5 @@ Next class will be further learning about **C# Programming**
 
 ## Homework
 
-* Complete the following exercise, in C#:
+* Complete the following exercise, in C#, we will review next class:
   * [Shopping Cart Exercise](shoppingcart.md)
