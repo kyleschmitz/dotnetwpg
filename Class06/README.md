@@ -12,7 +12,8 @@ Next class will be learning about programming in .NET
 
 ## In-Class Examples
 
-* (Not posted yet)
+* [Hello World](/HelloWorld)
+* [Is Number Prime](PrimeNumbers)
 
 ## Homework
 
