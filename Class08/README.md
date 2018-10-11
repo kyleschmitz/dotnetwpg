@@ -14,5 +14,5 @@ Next class will be further learning about **C# Programming**
 
 ## Homework
 
-1. Complete the questions 15 to 30 from the following assignment, in C#:
+1. Complete the questions 15 to 24 from the following assignment, in C#:
   * https://drive.google.com/open?id=17rBFM1NmeJU4t53HNmdGUgENVmJ_khlNSSQGuDKQvI0
