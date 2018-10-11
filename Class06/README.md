@@ -12,8 +12,8 @@ Next class will be learning about programming in .NET
 
 ## In-Class Examples
 
-* [Hello World](/HelloWorld)
-* [Is Number Prime](PrimeNumbers)
+* [Hello World](HelloWorld/Program.cs)
+* [Is Number Prime](PrimeNumbers/Program.cs)
 
 ## Homework
 
