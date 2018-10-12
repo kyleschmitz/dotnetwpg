@@ -8,7 +8,8 @@
   * https://drive.google.com/open?id=1NTchJS7TClpx16kzNrveWlmXHhmVYGpl5PDq1we_xyc
 
 ## Examples from class:
- * (Not yet posted)
+ * [Day of the week](Example01/Program.cs)
+ * [Shopping Cart](ShoppingCart/Program.cs)
 
 Next class will be further learning about **C# Programming**
 
