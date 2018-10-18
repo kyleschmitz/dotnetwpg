@@ -7,7 +7,9 @@
 * Learn about Types and Conversions.
   * https://drive.google.com/open?id=10eU1ALWhvJnrJ7_9pK_dNh6qgu7pYt2K5RmSdZCdVvQ
 * Examples from class:
-  * (Not posted yet)
+  * [Ariane Rocket 5](Rocket/Rocket/Program.cs)
+  * [Student Grades](StudentGrades/StudentGrades/Program.cs)
+  * [Ascii Conversions](Ascii/Ascii/Program.cs)
 
 Next class will be learning about **Object Oriented Programming**
 
