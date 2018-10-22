@@ -1,19 +1,17 @@
-# Class 11 - October 18, 2018
+# Class 12 - October 22, 2018
 
 ## Agenda
 
-* Learn about Object Oriented Programming.
+* Finishing notes from last class
   * https://drive.google.com/open?id=1WWaD-diUf0WxzH2jM3qIRMqavHi2SBR1r-Epdqlz6Gs
-
+* Time in class to work on the question below.
 
 ## Examples from class
-  * (Not yet posted)
+  * (Not posted yet)
 
 Next class will be further learning about **Object Oriented Programming**
 
-## Homework
-
-Complete the following assignment. We will be reviewing this in class on Monday:
+## In-class Question
 
 1) Create a class called Book that stores information for each book in a library. 
 The class should contain the following information:
@@ -107,3 +105,8 @@ Please enter an option: 1
 
 Thanks for stopping by!
 ```
+
+## Homework
+
+Complete the following questions in C#:
+* https://drive.google.com/open?id=1U8o_fe033WPHV2rOhDpoCRkH6eSeNwoPpT102q559Qc
