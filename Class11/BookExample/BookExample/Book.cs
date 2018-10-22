@@ -5,11 +5,11 @@ namespace BookExample
     class Book
     {
         public string Name;
-        public int pages;
+        public int Pages;
 
-        public void PrintBookInformation()
+        public string GetBookInformation()
         {
-            Console.WriteLine($"Book Title: {Name}, number of pages: {pages}");
+            return $"Book Title: {Name}, number of pages: {Pages}";
         }
     }
 

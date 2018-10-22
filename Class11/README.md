@@ -7,7 +7,7 @@
 
 
 ## Examples from class
-  * (Not yet posted)
+  * [Books example](BookExample/BookExample/Program.cs)
 
 Next class will be further learning about **Object Oriented Programming**
 

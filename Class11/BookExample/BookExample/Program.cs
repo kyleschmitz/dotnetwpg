@@ -11,14 +11,14 @@ namespace BookExample
 
             for (int i = 1; i < books.Length; i++)
             {
-                if (books[i].pages > largestBook.pages)
+                if (books[i].Pages > largestBook.Pages)
                 {
                     largestBook = books[i];
                 }
             }
 
             Console.Write($"The largest book is: ");
-            largestBook.PrintBookInformation();
+            Console.WriteLine(largestBook.GetBookInformation());
 
             Console.ReadKey();
         }
@@ -37,7 +37,7 @@ namespace BookExample
                 books[i].Name = Console.ReadLine();
                 
                 Console.Write($"Enter number of pages for book {i + 1}: ");
-                books[i].pages = Convert.ToInt32(Console.ReadLine());
+                books[i].Pages = Convert.ToInt32(Console.ReadLine());
                 
             }
 
