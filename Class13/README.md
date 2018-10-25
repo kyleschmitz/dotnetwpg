@@ -2,7 +2,7 @@
 
 ## Agenda
 
-* Review of solution to in-class Question from last class
+* Review of solution to in-class question from last class
 * Finishing notes from last class
   * https://drive.google.com/open?id=1WWaD-diUf0WxzH2jM3qIRMqavHi2SBR1r-Epdqlz6Gs
 * Continue learning about object oriented programming:

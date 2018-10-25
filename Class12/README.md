@@ -7,7 +7,7 @@
 * Time in class to work on the question below.
 
 ## Examples from class
-  * (Not posted yet)
+  * [Books example](BooksExample2/BooksExample2/Program.cs)
 
 Next class will be further learning about **Object Oriented Programming**
 
