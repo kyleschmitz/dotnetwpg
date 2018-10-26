@@ -5,11 +5,9 @@
 * Review of solution to in-class question from last class
 * Finishing notes from last class
   * https://drive.google.com/open?id=1WWaD-diUf0WxzH2jM3qIRMqavHi2SBR1r-Epdqlz6Gs
-* Continue learning about object oriented programming:
-  * https://drive.google.com/open?id=1hW8H_0FF_NdHHTf3EJ-owJxau2i-m7NnYDh9OQcKdTM
 * Examples from class:
-  * (Not yet posted)
-
+  * [In Class Assignment - Program.cs](InClassAssignment/InClassAssignment/Program.cs)
+  * [In Class Assignment - Book.cs](InClassAssignment/InClassAssignment/Book.cs)
 
 Next class will be further learning about **Object Oriented Programming**
 
