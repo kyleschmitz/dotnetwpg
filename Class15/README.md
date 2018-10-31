@@ -3,8 +3,10 @@
 ## Agenda
 
 * Review of the solution to Monday's student grade sorting.
-* Continue learning about object oriented programming:
+* Learning about value and reference variables, as well as method overloading:
   * https://drive.google.com/open?id=1OtIDpGlA5HZydt6s3HIziu5gnZVeqF65ZozjdFmiNyQ
+* Learning about access and membership modifiers:
+  * https://drive.google.com/open?id=1acJvbjL0UECt6AVMVFlvyM7uPulDfhB3bLPwEFIhN70
 * Examples from class:
   * (Not posted yet)
 
