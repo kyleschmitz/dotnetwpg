@@ -8,7 +8,10 @@
 * Learning about access and membership modifiers:
   * https://drive.google.com/open?id=1acJvbjL0UECt6AVMVFlvyM7uPulDfhB3bLPwEFIhN70
 * Examples from class:
-  * (Not posted yet)
+  * [Student Grades - Program.cs](StudentGrades/StudentGrades/Program.cs)
+  * [Student Grades - Student.cs](StudentGrades/StudentGrades/Student.cs)
+  * [Reference Example - Program.cs](ReferenceExample/ReferenceExample/Program.cs)
+  * [Reference Example - Person.cs](ReferenceExample/ReferenceExample/Person.cs)
 
 Next class will be further learning about **Object Oriented Programming**
 
