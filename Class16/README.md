@@ -9,7 +9,10 @@
 * Overview of debugging in visual studio:
 
 ## Examples from class:
-* (Not posted yet)
+* [Singleton Example - Program.cs](SingletonExample/SingletonExample/Program.cs)
+* [Singleton Example - President.cs](SingletonExample/SingletonExample/President.cs)
+* [Unique Bikes Example - Program.cs](UniqueBikes/UniqueBikes/Program.cs)
+* [Unique Bikes Example - Bicycle.cs](UniqueBikes/UniqueBikes/Bicycle.cs)
 
 Next class will be further learning about **Object Oriented Programming**
 
