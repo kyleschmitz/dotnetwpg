@@ -12,6 +12,8 @@
   * [Student Grades - Student.cs](StudentGrades/StudentGrades/Student.cs)
   * [Reference Example - Program.cs](ReferenceExample/ReferenceExample/Program.cs)
   * [Reference Example - Person.cs](ReferenceExample/ReferenceExample/Person.cs)
+  * [Person Comparison - Program.cs](PersonComparison/PersonComparison/Program.cs)
+  * [Person Comparison - Person.cs](PersonComparison/PersonComparison/Person.cs)
 
 Next class will be further learning about **Object Oriented Programming**
 
