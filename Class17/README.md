@@ -11,9 +11,9 @@ Next class will be on **Interfaces**
 ## In-class Examples
 
 Example of bad encapsulation:
-* [Bad Example - Program.cs](BadExample\BadExample\Program.cs)
-* [Bad Example - ATM.cs](BadExample\BadExample\ATM.java)
-* [Bad Example - BankAccount.cs](BadExample\BadExample\BankAccount.java)
+* [Bad Example - Program.cs](BadExample/BadExample/Program.cs)
+* [Bad Example - ATM.cs](BadExample/BadExample/ATM.java)
+* [Bad Example - BankAccount.cs](BadExample/BadExample/BankAccount.java)
 
 ## Homework
 
