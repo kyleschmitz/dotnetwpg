@@ -82,7 +82,7 @@ namespace BadExample
                 else
                 {
                     account.Balance = account.Balance - amount;
-                    Console.WriteLine($"Successfully withdrew {account.Balance:c}");
+                    Console.WriteLine($"Successfully withdrew {amount:c}");
                 }
             }
         }
@@ -107,7 +107,7 @@ namespace BadExample
                 else
                 {
                     account.Balance = account.Balance - amount;
-                    Console.WriteLine($"Successfully transferred {account.Balance:c}");
+                    Console.WriteLine($"Successfully transferred {amount:c}");
                 }
             }
         }
