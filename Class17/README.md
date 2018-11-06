@@ -14,6 +14,9 @@ Example of bad encapsulation:
 * [Bad Example - Program.cs](BadExample/BadExample/Program.cs)
 * [Bad Example - ATM.cs](BadExample/BadExample/ATM.cs)
 * [Bad Example - BankAccount.cs](BadExample/BadExample/BankAccount.cs)
+* [Good Example - Program.cs](GoodExample/GoodExample/Program.cs)
+* [Good Example - ATM.cs](GoodExample/GoodExample/ATM.cs)
+* [Good Example - BankAccount.cs](GoodExample/GoodExample/BankAccount.cs)
 
 ## Homework
 
