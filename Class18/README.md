@@ -1,4 +1,4 @@
-# Class 18 - Nov 7, 2018
+# Class 18 - Nov 8, 2018
 
 ## Agenda
 
@@ -9,8 +9,11 @@ Next class will be on **Namespaces and Exceptions**
 
 ## In-class Examples
 
-Example of bad encapsulation:
-* (Not posted yet)
+* Interface Example
+  * [Bank Example - Program.cs](BankExample/BankExample/Program.cs)
+  * [Bank Example - IAccount.cs](BankExample/BankExample/IAccount.cs)
+  * [Bank Example - SavingsAccount.cs](BankExample/BankExample/SavingsAccount.cs)
+  * [Bank Example - ChequingAccount.cs](BankExample/BankExample/ChequingAccount.cs)
 
 ## Homework
 

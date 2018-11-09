@@ -6,8 +6,7 @@ namespace InterfaceExample
     {
         static void Main(string[] args)
         {
-            IEmployee employee = new Ceo();
-
+            Ceo employee = new Ceo();
             Console.WriteLine($"{employee.GetTitle()} makes {employee.GetSalary()}");
             Console.ReadKey();
         }

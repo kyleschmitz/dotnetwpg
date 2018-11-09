@@ -6,6 +6,11 @@ namespace InterfaceExample
 {
     class Ceo : IEmployee
     {
+        public void PromoteToPosition(string newTitle)
+        {
+
+        }
+
         public double GetSalary()
         {
             return 1000000;
@@ -14,6 +19,11 @@ namespace InterfaceExample
         public string GetTitle()
         {
             return "The guy that doesn't actually do any work";
+        }
+
+        public double GetBonus()
+        {
+            return 50000;
         }
     }
 }
