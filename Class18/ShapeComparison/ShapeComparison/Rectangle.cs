@@ -18,7 +18,7 @@ namespace ShapeComparison
             return "Rectangle";
         }
 
-        double IShape.CalculateArea()
+        public double CalculateArea()
         {
             return _width * _height;
         }
@@ -35,11 +35,6 @@ namespace ShapeComparison
                 Console.WriteLine();
             }
             Console.WriteLine();
-        }
-
-        int IDrawable.CalculateArea()
-        {
-            throw new NotImplementedException();
         }
     }
 }

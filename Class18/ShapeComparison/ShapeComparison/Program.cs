@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics;
 
 namespace ShapeComparison
 {
@@ -8,13 +7,9 @@ namespace ShapeComparison
         static void Main(string[] args)
         {
             IShape circle = new Circle(10);
-            Rectangle rectangle = new Rectangle(10, 5);
+            Rectangle rectangle = new Rectangle(2, 5);
             IShape triangle = new RightAngleTriangle(4, 5);
-
-
-            IDrawable drawShape = rectangle;
-
-
+            
             PrintAreaForShape(circle);
             PrintAreaForShape(rectangle);
             PrintAreaForShape(triangle);
@@ -22,11 +17,11 @@ namespace ShapeComparison
             bool sameSize = AreTheSameSize(triangle, rectangle);
             if (sameSize)
             {
-                Console.WriteLine("They are the same");
+                Console.WriteLine("They are the same size.");
             }
             else
             {
-                Console.WriteLine("They are not the same");
+                Console.WriteLine("They are not the same size.");
             }
 
             Console.ReadKey();
@@ -41,11 +36,6 @@ namespace ShapeComparison
         static bool AreTheSameSize(IShape s1, IShape s2)
         {
             return s1.CalculateArea() == s2.CalculateArea();
-        }
-
-        static void DrawShape(IDrawable drawableShape)
-        {
-            drawableShape.DrawShape();
         }
     }
 }

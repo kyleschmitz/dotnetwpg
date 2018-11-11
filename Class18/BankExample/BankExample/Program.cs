@@ -9,9 +9,7 @@ namespace BankExample
             ChequingAccount chequingAccount = new ChequingAccount(1000);
             SavingsAccount savingsAccount = new SavingsAccount(1000);
             RRSPAccount rrspAccount = new RRSPAccount(1000, 20);
-
-            //Code
-
+            
             Console.WriteLine();
             Console.WriteLine("Printing chequing account info:");
             PrintAccountInformation(chequingAccount);
@@ -24,8 +22,6 @@ namespace BankExample
             Console.WriteLine();
             Console.WriteLine("Printing rrsp account info:");
             PrintAccountInformation(rrspAccount);
-
-
 
             Console.ReadKey();
         }

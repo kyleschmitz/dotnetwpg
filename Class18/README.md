@@ -13,8 +13,8 @@ Next class will be on **Namespaces and Exceptions**
   * [Interface Example - Program.cs](InterfaceExample/InterfaceExample/Program.cs)
   * [Interface Example - IEmployee.cs](InterfaceExample/InterfaceExample/IEmployee.cs)
   * [Interface Example - Ceo.cs](InterfaceExample/InterfaceExample/Ceo.cs)
-  * [Interface Example - Ceo.cs](InterfaceExample/InterfaceExample/Ceo.cs)
-  * [Interface Example - Program.cs](InterfaceExample/InterfaceExample/Program.cs)
+  * [Interface Example - Janitor.cs](InterfaceExample/InterfaceExample/Janitor.cs)
+  * [Interface Example - SoftwareDeveloper.cs](InterfaceExample/InterfaceExample/SoftwareDeveloper.cs)
 
 * Bank Example
   * [Bank Example - Program.cs](BankExample/BankExample/Program.cs)

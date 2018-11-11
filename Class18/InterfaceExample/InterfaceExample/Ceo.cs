@@ -6,11 +6,6 @@ namespace InterfaceExample
 {
     class Ceo : IEmployee
     {
-        public void PromoteToPosition(string newTitle)
-        {
-
-        }
-
         public double GetSalary()
         {
             return 1000000;

@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ShapeComparison
+﻿namespace ShapeComparison
 {
     public interface IDrawable
     {
         void DrawShape();
-        int CalculateArea();
     }
 }
