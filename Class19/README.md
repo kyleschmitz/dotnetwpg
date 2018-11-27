@@ -5,11 +5,14 @@
 * Learning about namespaces and exceptions:
   * https://drive.google.com/open?id=1Ohtg27MkvyEGwRfsW7MPd3Ed0-vv5HeZxJ9NgT-DpUo
 
-Next class will be on **Abstraction**
+Next class will be finishing the slides on exceptions, and learning **Abstraction**
 
 ## In-class Examples
 
-(Not posted yet)
+* Exception Example
+  * [Program.cs](ExceptionExample/ExceptionExample/Program.cs)
+* Average Grade (handling multiple exception types)
+  * [Program.cs](AverageGrade/AverageGrade/Program.cs)
 
 ## Homework
 
