@@ -18,7 +18,7 @@ Next class will further learning on **Polymorphism**
 Complete questions 1-6 of the following assignment in C#:
 * https://docs.google.com/document/d/1QfHoRn1MEWwAJXuk9JBP0ovwzBosH6_S0XbyCXv-Al8/
 
- * For your final project, we are going to start designing and building classes that your application will need. For now, we are going to focus specifically on the information that your application will need to store, rather than on functionality.
+For your final project, we are going to start designing and building classes that your application will need. For now, we are going to focus specifically on the information that your application will need to store, rather than on functionality.
 
 For each of your proposed use cases/features, write out a list of the data that you will need for those features.
 Be very specific. If your application needs to store information on products, exactly what information is that? The product's name? Price? Description? What data type are all these attributes?
