@@ -15,6 +15,12 @@ Next class will be learning about **MVC**
   * [Buyer.cs](OnlineStore/OnlineStore/Buyer.cs)
   * [Seller.cs](OnlineStore/OnlineStore/Seller.cs)
   * [Product.cs](OnlineStore/OnlineStore/Product.cs)
+* Book Cost of Manufacturing Calculator
+  * [Program.cs](BookCalculator/BookCalculator/Program.cs)
+  * [Book.cs](BookCalculator/BookCalculator/Book.cs)
+  * [Hardcover.cs](BookCalculator/BookCalculator/Hardcover.cs)
+  * [Paperback.cs](BookCalculator/BookCalculator/Paperback.cs)
+  * [Magazine.cs](BookCalculator/BookCalculator/Magazine.cs)
 
 ## Homework
 
