@@ -15,6 +15,9 @@ If you haven't yet, you will need to download the following software on your com
 * Microsoft SQL Server Management Studio 
   * https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017
 
+For further learning and practice with Entity Framework Core:
+* http://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx
+
 ## In-class Examples
 
 (Not posted yet)
