@@ -21,8 +21,16 @@ For further learning and practice with Entity Framework Core:
 
 ## In-class Examples
 
-(Not posted yet)
+Creating, Retrieving, Updating, and Deleting Products using Entity Framework:
+* [Program.cs](EFCoreExample/EFCoreExample/Program.cs)
+* [Data/Product.cs](EFCoreExample/EFCoreExample/Data/Product.cs)
+* [Data/ProductContext.cs](EFCoreExample/EFCoreExample/Data/ProductContext.cs)
+
+## In-class Assignment
+
+Follow the guide outlined at the following link to create a sample application to store and retrieve data using Entity Framework:
+* http://www.entityframeworktutorial.net/efcore/entity-framework-core-console-application.aspx
 
 ## Homework
 
-(Not posted yet)
+Continue working on your course project.
