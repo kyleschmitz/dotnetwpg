@@ -4,11 +4,27 @@
 
 * Learning about Git and Github
   * https://drive.google.com/open?id=1Xykqml88NhyevZaE-pMVS8FmvmJYnhj6wgY4BP_qCEU
-* Some additional resources 
-  * https://www.youtube.com/watch?v=SWYqp7iY_Tc
-  * https://learngitbranching.js.org/
+* Loading data form multiple tables using Entity Framework
 
 Next class will be further time to work on your course project
+
+## Links
+
+Additional resources for learning git:
+* https://www.youtube.com/watch?v=SWYqp7iY_Tc
+* https://learngitbranching.js.org/
+Querying data using entity framework:
+* http://www.entityframeworktutorial.net/efcore/querying-in-ef-core.aspx
+
+## In-class Examples
+
+Querying data from multiple tables
+* [Program.cs](EFCoreExample/EFCoreExample/Program.cs)
+* [ProductMenu.cs](EFCoreExample/EFCoreExample/ProductMenu.cs)
+* [SellerMenu.cs](EFCoreExample/EFCoreExample/SellerMenu.cs)
+* [Data/Product.cs](EFCoreExample/EFCoreExample/Data/Product.cs)
+* [Data/Seller.cs](EFCoreExample/EFCoreExample/Data/Seller.cs)
+* [Data/ProductContext.cs](EFCoreExample/EFCoreExample/Data/ProductContext.cs)
 
 ## Homework
 
