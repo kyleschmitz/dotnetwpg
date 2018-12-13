@@ -64,7 +64,7 @@ namespace EFCoreExample
 
         private static void GetProductById()
         {
-            int productId = -1;
+            int productId;
 
             Console.WriteLine();
             Console.Write("Please enter the ID of the product: ");
@@ -75,10 +75,8 @@ namespace EFCoreExample
 
             using (var context = new ProductContext())
             {
-                foreach (var product in context.Products.Where(x => x.Id == productId))
-                {
-                    Console.WriteLine(product);
-                }
+                var product = context.Products.FirstOrDefault(x => x.Id == productId);
+                Console.WriteLine(product);
             }
         }
 

@@ -65,7 +65,7 @@ namespace EFCoreExample
 
         private static void GetSellerById()
         {
-            int sellerId = -1;
+            int sellerId;
 
             Console.WriteLine();
             Console.Write("Please enter the ID of the seller: ");
@@ -76,20 +76,16 @@ namespace EFCoreExample
 
             using (var context = new ProductContext())
             {
-                foreach (var seller in context.Sellers.Include(x => x.Products).Where(x => x.Id == sellerId))
-                {
-                    Console.WriteLine(seller);
-                }
+                var seller = context.Sellers.Include(x => x.Products).FirstOrDefault(x => x.Id == sellerId);
+                Console.WriteLine(seller);
             }
         }
 
         private static void CreateSeller()
         {
-            string name;
-
             Console.WriteLine();
             Console.Write("Enter the name of the seller: ");
-            name = Console.ReadLine();
+            string name = Console.ReadLine();
             
             Seller newSeller = new Seller(name);
 
