@@ -24,6 +24,7 @@ Adding unit testing to a previous in-class assignment
 * [Magazine.cs](BookCalculator/BookCalculator/Magazine.cs)
 * [Paperback.cs](BookCalculator/BookCalculator/Paperback.cs)
 * [HardcoverTests.cs](BookCalculator/BookCalculatorTests/HardcoverTests.cs)
+
 Testing a simple banking application (taken from the tutorial in the links)
 * [Program.cs](BankExample/BankExample/Program.cs)
 * [BankAccount.cs](BankExample/BankExample/BankAccount.cs)
