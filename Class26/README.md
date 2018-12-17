@@ -9,10 +9,10 @@ Next class will be Programming Methodologies, and further time to work on your c
 
 ## Links
 
-* Further information and practice on unit testing
+Further information and practice on unit testing
   * https://docs.microsoft.com/en-us/visualstudio/test/unit-test-basics?view=vs-2017
   * https://docs.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2017
-* Microsoft tutorial on creating a website using ASP.NET Core MVC
+Microsoft tutorial on creating a website using ASP.NET Core MVC
   * https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-2.2
 
 ## In-class Examples

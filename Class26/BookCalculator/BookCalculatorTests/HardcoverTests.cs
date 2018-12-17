@@ -12,7 +12,7 @@ namespace BookCalculatorTests
             Hardcover sut = new Hardcover("Test", "Test", 100);
 
             decimal result = sut.GetCostOfManufacturing();
-
+            
             Assert.AreEqual(8m, result);
         }
     }
